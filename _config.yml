@@ -1,0 +1,11 @@
+title: bprayudha
+
+baseurl: ""
+
+url: "https://bpray32git.github.io"
+
+github_username:  bpray32git
+markdown: kramdown
+
+sass:
+  style: :compressed
